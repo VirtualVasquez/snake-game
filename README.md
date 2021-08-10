@@ -6,7 +6,7 @@ Control the snake using the arrow keys. Eat as many apples as you can without hi
 
 You can play it [here](https://virtualvasquez.github.io/snake-game/)
 
-![Snake Overview](/screenshots/overview.png)
+[Snake Overview](/screenshots/overview.png)
 
 ## Summary
 
@@ -16,4 +16,4 @@ Play as long as you like. You'll inevitably lose. Have a good laugh at the game 
 
 ## Author
 
-**Melvin Vasquez** - *Full-Stack Software Developer* - ![Website](https://melvinvasquez.com/) | ![LinkedIn](https://www.linkedin.com/in/melvin-vasquez/)
+**Melvin Vasquez** - *Full-Stack Software Developer* - [Website](https://melvinvasquez.com/) | [LinkedIn](https://www.linkedin.com/in/melvin-vasquez/)
